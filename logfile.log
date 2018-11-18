@@ -1,0 +1,522 @@
+2018-09-29 21:42:00,850 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:00,851 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:00,851 INFO  [Logging] +++++++TC001++++++ 
+2018-09-29 21:42:00,851 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:00,851 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:05,009 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-29 21:42:10,155 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-09-29 21:42:10,241 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-09-29 21:42:15,042 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-09-29 21:42:15,063 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:15,063 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-29 21:42:15,063 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:15,251 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:15,251 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:15,251 INFO  [Logging] +++++++TC002++++++ 
+2018-09-29 21:42:15,251 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:15,251 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:15,314 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-09-29 21:42:22,588 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-09-29 21:42:22,625 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-09-29 21:42:26,334 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-09-29 21:42:26,334 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:26,334 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-29 21:42:26,334 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:26,407 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:26,407 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:26,408 INFO  [Logging] +++++++TC003++++++ 
+2018-09-29 21:42:26,408 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:26,408 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:28,676 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-09-29 21:42:28,820 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-09-29 21:42:49,230 ERROR [Logging] Handling textbox method did not work at location ---name:ctl00$Body$rgUserName........... 
+2018-09-29 21:42:49,421 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-09-29 21:42:49,549 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-09-29 21:42:49,674 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-09-29 21:42:49,794 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-09-29 21:42:49,972 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-09-29 21:42:50,033 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPCountry 
+2018-09-29 21:42:50,344 ERROR [Logging] Handling dropdown method did not work at location ---name:ctl00$Body$ddlNPRegion........ 
+2018-09-29 21:42:50,526 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCity 
+2018-09-29 21:42:50,626 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPZip 
+2018-09-29 21:42:50,757 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$txtNPPhone 
+2018-09-29 21:42:50,757 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 21:42:50,757 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-29 21:42:50,757 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:16,591 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:16,591 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:16,591 INFO  [Logging] +++++++TC001++++++ 
+2018-09-29 22:15:16,591 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:16,591 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:20,794 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-29 22:15:25,620 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-09-29 22:15:27,703 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-09-29 22:15:33,210 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-09-29 22:15:33,210 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:33,210 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-29 22:15:33,210 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:33,434 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:33,434 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:33,434 INFO  [Logging] +++++++TC002++++++ 
+2018-09-29 22:15:33,434 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:33,434 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:33,470 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-09-29 22:15:43,242 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-09-29 22:15:43,290 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-09-29 22:15:48,573 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-09-29 22:15:48,573 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:48,573 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-29 22:15:48,573 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:48,647 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:48,647 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:48,647 INFO  [Logging] +++++++TC003++++++ 
+2018-09-29 22:15:48,647 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:48,647 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:15:52,932 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-09-29 22:15:55,071 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-09-29 22:16:15,481 ERROR [Logging] Handling textbox method did not work at location ---name:ctl00$Body$rgUserName........... 
+2018-09-29 22:16:17,668 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-09-29 22:16:19,805 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-09-29 22:16:21,941 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-09-29 22:16:24,084 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-09-29 22:16:26,279 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-09-29 22:16:28,612 ERROR [Logging] Handling dropdown method did not work at location ---name:ctl00$Body$ddlNPCountry 
+2018-09-29 22:21:57,961 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:21:57,962 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:21:57,962 INFO  [Logging] +++++++TC001++++++ 
+2018-09-29 22:21:57,962 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:21:57,962 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:02,140 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-29 22:22:06,866 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-09-29 22:22:07,942 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-09-29 22:22:12,454 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-09-29 22:22:12,454 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:12,454 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-29 22:22:12,454 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:12,658 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:12,658 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:12,658 INFO  [Logging] +++++++TC002++++++ 
+2018-09-29 22:22:12,658 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:12,658 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:12,690 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-09-29 22:22:30,612 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-09-29 22:22:30,654 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-09-29 22:22:45,993 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-09-29 22:22:45,993 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:45,993 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-29 22:22:45,993 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:46,070 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:46,071 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:46,071 INFO  [Logging] +++++++TC003++++++ 
+2018-09-29 22:22:46,071 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:46,071 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:22:49,360 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-09-29 22:22:50,500 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-09-29 22:23:10,901 ERROR [Logging] Handling textbox method did not work at location ---name:ctl00$Body$rgUserName........... 
+2018-09-29 22:23:12,103 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-09-29 22:23:13,244 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-09-29 22:23:14,387 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-09-29 22:23:15,526 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-09-29 22:23:16,722 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-09-29 22:23:18,047 ERROR [Logging] Handling dropdown method did not work at location ---name:ctl00$Body$ddlNPCountry 
+2018-09-29 22:23:18,369 ERROR [Logging] Handling dropdown method did not work at location ---name:ctl00$Body$ddlNPRegion........ 
+2018-09-29 22:23:19,557 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCity 
+2018-09-29 22:23:20,689 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPZip 
+2018-09-29 22:23:21,844 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$txtNPPhone 
+2018-09-29 22:23:21,844 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-29 22:23:21,844 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-29 22:23:21,844 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:56:52,670 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:56:52,670 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:56:52,671 INFO  [Logging] +++++++TC001++++++ 
+2018-09-30 21:56:52,671 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:56:52,671 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:56:56,551 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-30 21:57:00,976 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-09-30 21:57:02,066 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-09-30 21:57:06,159 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-09-30 21:57:06,159 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:06,159 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 21:57:06,159 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:06,361 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:06,361 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:06,361 INFO  [Logging] +++++++TC002++++++ 
+2018-09-30 21:57:06,361 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:06,361 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:06,399 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-09-30 21:57:14,487 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-09-30 21:57:14,531 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-09-30 21:57:18,437 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-09-30 21:57:18,437 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:18,437 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 21:57:18,437 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:18,526 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:18,526 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:18,526 INFO  [Logging] +++++++TC003++++++ 
+2018-09-30 21:57:18,526 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:18,526 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:21,817 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-09-30 21:57:22,968 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-09-30 21:57:24,170 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgUserName 
+2018-09-30 21:57:25,358 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-09-30 21:57:26,508 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-09-30 21:57:27,674 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-09-30 21:57:28,824 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-09-30 21:57:30,035 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-09-30 21:57:31,416 ERROR [Logging] Handling dropdown method did not work at location ---name:ctl00$Body$ddlNPCountry 
+2018-09-30 21:57:32,755 ERROR [Logging] Handling dropdown method did not work at location ---name:ctl00$Body$ddlNPRegion 
+2018-09-30 21:57:33,950 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCity 
+2018-09-30 21:57:35,073 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPZip 
+2018-09-30 21:57:36,238 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$txtNPPhone 
+2018-09-30 21:57:36,239 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:57:36,239 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 21:57:36,239 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:58:46,873 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:58:46,874 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:58:46,874 INFO  [Logging] +++++++TC001++++++ 
+2018-09-30 21:58:46,874 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:58:46,874 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:58:50,871 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-30 21:58:55,631 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-09-30 21:58:56,719 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-09-30 21:59:00,319 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-09-30 21:59:00,319 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:00,319 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 21:59:00,319 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:00,509 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:00,509 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:00,509 INFO  [Logging] +++++++TC002++++++ 
+2018-09-30 21:59:00,509 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:00,509 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:00,542 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-09-30 21:59:08,174 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-09-30 21:59:08,219 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-09-30 21:59:12,120 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-09-30 21:59:12,120 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:12,120 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 21:59:12,120 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:12,196 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:12,196 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:12,196 INFO  [Logging] +++++++TC003++++++ 
+2018-09-30 21:59:12,196 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:12,196 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:15,474 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-09-30 21:59:16,618 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-09-30 21:59:17,824 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgUserName 
+2018-09-30 21:59:19,016 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-09-30 21:59:20,159 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-09-30 21:59:21,322 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-09-30 21:59:22,473 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-09-30 21:59:23,693 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-09-30 21:59:25,080 ERROR [Logging] Handling dropdown method did not work at location ---name:ctl00$Body$ddlNPCountry 
+2018-09-30 21:59:26,509 ERROR [Logging] Handling dropdown method did not work at location ---name:ctl00$Body$ddlNPRegion 
+2018-09-30 21:59:27,704 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCity 
+2018-09-30 21:59:28,823 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPZip 
+2018-09-30 21:59:29,998 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$txtNPPhone 
+2018-09-30 21:59:29,998 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 21:59:29,998 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 21:59:29,998 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:23,439 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:23,440 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:23,440 INFO  [Logging] +++++++TC001++++++ 
+2018-09-30 22:01:23,440 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:23,440 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:27,360 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-30 22:01:31,804 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-09-30 22:01:32,902 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-09-30 22:01:36,903 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-09-30 22:01:36,903 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:36,903 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 22:01:36,903 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:37,105 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:37,106 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:37,106 INFO  [Logging] +++++++TC002++++++ 
+2018-09-30 22:01:37,106 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:37,106 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:37,138 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-09-30 22:01:46,173 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-09-30 22:01:46,210 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-09-30 22:01:50,396 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-09-30 22:01:50,396 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:50,396 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 22:01:50,396 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:50,476 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:50,476 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:50,476 INFO  [Logging] +++++++TC003++++++ 
+2018-09-30 22:01:50,476 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:50,476 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:01:53,746 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-09-30 22:01:54,898 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-09-30 22:01:56,099 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgUserName 
+2018-09-30 22:01:57,296 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-09-30 22:01:58,438 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-09-30 22:01:59,602 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-09-30 22:02:00,755 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-09-30 22:02:01,982 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-09-30 22:02:03,045 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPCountry 
+2018-09-30 22:02:04,165 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPRegion 
+2018-09-30 22:02:05,362 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCity 
+2018-09-30 22:02:06,488 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPZip 
+2018-09-30 22:02:07,648 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$txtNPPhone 
+2018-09-30 22:02:07,648 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:02:07,648 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 22:02:07,648 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:19,136 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:19,136 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:19,136 INFO  [Logging] +++++++TC001++++++ 
+2018-09-30 22:05:19,136 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:19,136 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:23,018 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-30 22:05:27,343 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-09-30 22:05:28,424 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-09-30 22:05:32,126 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-09-30 22:05:32,126 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:32,126 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 22:05:32,126 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:32,334 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:32,334 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:32,334 INFO  [Logging] +++++++TC002++++++ 
+2018-09-30 22:05:32,334 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:32,335 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:32,372 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-09-30 22:05:39,668 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-09-30 22:05:39,713 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-09-30 22:05:43,494 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-09-30 22:05:43,494 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:43,495 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 22:05:43,495 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:43,579 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:43,579 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:43,579 INFO  [Logging] +++++++TC003++++++ 
+2018-09-30 22:05:43,579 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:43,579 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:05:46,868 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-09-30 22:05:48,019 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-09-30 22:05:49,219 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgUserName 
+2018-09-30 22:05:50,413 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-09-30 22:05:51,559 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-09-30 22:05:52,718 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-09-30 22:05:53,865 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-09-30 22:05:55,068 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-09-30 22:05:56,129 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPCountry 
+2018-09-30 22:05:57,252 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPRegion 
+2018-09-30 22:05:58,449 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCity 
+2018-09-30 22:05:59,569 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPZip 
+2018-09-30 22:06:00,735 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$txtNPPhone 
+2018-09-30 22:06:00,735 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 22:06:00,735 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 22:06:00,735 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:17,363 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:17,364 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:17,364 INFO  [Logging] +++++++TC001++++++ 
+2018-09-30 23:46:17,364 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:17,364 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:21,337 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-30 23:46:22,552 ERROR [Logging] Not able to open the website --- https://www.aapc.com/ 
+2018-09-30 23:46:30,630 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:30,631 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:30,631 INFO  [Logging] +++++++TC002++++++ 
+2018-09-30 23:46:30,631 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:30,631 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:38,667 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:38,667 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:38,667 INFO  [Logging] +++++++TC003++++++ 
+2018-09-30 23:46:38,667 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:38,667 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:40,176 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:40,176 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:40,176 INFO  [Logging] +++++++TC001++++++ 
+2018-09-30 23:46:40,177 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:40,177 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:44,138 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-30 23:46:48,691 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-09-30 23:46:49,784 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-09-30 23:46:53,534 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-09-30 23:46:53,534 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:53,534 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 23:46:53,535 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:53,706 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:53,706 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:53,706 INFO  [Logging] +++++++TC002++++++ 
+2018-09-30 23:46:53,706 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:53,706 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:46:53,741 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-09-30 23:47:01,607 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-09-30 23:47:01,670 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-09-30 23:47:05,877 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-09-30 23:47:05,877 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:47:05,877 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 23:47:05,877 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:47:05,957 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:47:05,957 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:47:05,957 INFO  [Logging] +++++++TC003++++++ 
+2018-09-30 23:47:05,957 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:47:05,957 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:47:09,249 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-09-30 23:47:10,391 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-09-30 23:47:11,599 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgUserName 
+2018-09-30 23:47:12,792 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-09-30 23:47:13,932 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-09-30 23:47:15,088 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-09-30 23:47:16,225 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-09-30 23:47:17,426 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-09-30 23:47:18,499 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPCountry 
+2018-09-30 23:47:19,610 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPRegion 
+2018-09-30 23:47:20,800 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCity 
+2018-09-30 23:47:21,927 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPZip 
+2018-09-30 23:47:23,084 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$txtNPPhone 
+2018-09-30 23:47:23,084 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:47:23,084 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 23:47:23,084 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:30,104 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:30,104 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:30,104 INFO  [Logging] +++++++TC001++++++ 
+2018-09-30 23:48:30,104 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:30,104 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:34,105 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-30 23:48:38,721 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-09-30 23:48:39,801 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-09-30 23:48:43,787 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-09-30 23:48:43,787 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:43,787 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 23:48:43,787 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:43,961 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:43,961 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:43,961 INFO  [Logging] +++++++TC002++++++ 
+2018-09-30 23:48:43,961 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:43,961 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:43,995 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-09-30 23:48:50,577 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-09-30 23:48:50,624 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-09-30 23:48:54,581 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-09-30 23:48:54,582 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:54,582 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 23:48:54,582 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:54,656 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:54,656 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:54,656 INFO  [Logging] +++++++TC003++++++ 
+2018-09-30 23:48:54,656 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:54,656 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:48:57,972 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-09-30 23:48:59,136 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-09-30 23:49:00,375 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgUserName 
+2018-09-30 23:49:01,568 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-09-30 23:49:02,727 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-09-30 23:49:03,877 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-09-30 23:49:05,026 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-09-30 23:49:06,224 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-09-30 23:49:07,290 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPCountry 
+2018-09-30 23:49:08,415 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPRegion 
+2018-09-30 23:49:09,622 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCity 
+2018-09-30 23:49:10,752 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPZip 
+2018-09-30 23:49:11,920 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$txtNPPhone 
+2018-09-30 23:49:11,920 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:49:11,920 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-09-30 23:49:11,920 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:43,221 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:43,222 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:43,222 INFO  [Logging] +++++++TC001++++++ 
+2018-09-30 23:57:43,222 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:43,222 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:47,209 INFO  [Logging] Running the execution in Chrome browser 
+2018-09-30 23:57:51,313 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-09-30 23:57:51,364 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:51,364 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:51,364 INFO  [Logging] +++++++TC002++++++ 
+2018-09-30 23:57:51,364 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:51,364 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:51,379 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:51,379 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:51,379 INFO  [Logging] +++++++TC003++++++ 
+2018-09-30 23:57:51,379 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-09-30 23:57:51,379 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:45,564 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:45,564 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:45,564 INFO  [Logging] +++++++TC001++++++ 
+2018-10-01 00:02:45,564 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:45,564 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:49,483 INFO  [Logging] Running the execution in Chrome browser 
+2018-10-01 00:02:54,192 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-10-01 00:02:55,279 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-10-01 00:02:59,346 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-10-01 00:02:59,346 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:59,346 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-10-01 00:02:59,346 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:59,492 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:59,492 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:59,492 INFO  [Logging] +++++++TC002++++++ 
+2018-10-01 00:02:59,492 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:59,492 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:02:59,526 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-10-01 00:03:13,832 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-10-01 00:03:13,876 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-10-01 00:03:17,629 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-10-01 00:03:17,629 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:03:17,629 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-10-01 00:03:17,629 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:03:17,701 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:03:17,701 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:03:17,701 INFO  [Logging] +++++++TC003++++++ 
+2018-10-01 00:03:17,701 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:03:17,702 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:03:20,988 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-10-01 00:03:22,151 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-10-01 00:03:23,345 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgUserName 
+2018-10-01 00:03:24,547 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-10-01 00:03:25,688 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-10-01 00:03:26,847 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-10-01 00:03:28,017 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-10-01 00:03:29,247 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-10-01 00:03:30,321 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPCountry 
+2018-10-01 00:03:31,456 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPRegion 
+2018-10-01 00:03:32,655 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCity 
+2018-10-01 00:03:33,772 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPZip 
+2018-10-01 00:03:34,926 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$txtNPPhone 
+2018-10-01 00:03:34,926 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:03:34,926 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-10-01 00:03:34,926 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:09,737 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:09,738 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:09,738 INFO  [Logging] +++++++TC001++++++ 
+2018-10-01 00:05:09,738 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:09,738 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:13,677 INFO  [Logging] Running the execution in Chrome browser 
+2018-10-01 00:05:17,930 INFO  [Logging] Opened the website --- https://www.aapc.com/ 
+2018-10-01 00:05:19,042 INFO  [Logging] Mouse hovering withoutclick working fine at location ---xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-10-01 00:05:23,076 INFO  [Logging] Mouse hovering withclick working fine at location ---linktext:Individual 
+2018-10-01 00:05:23,077 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:23,077 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-10-01 00:05:23,077 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:23,245 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:23,245 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:23,245 INFO  [Logging] +++++++TC002++++++ 
+2018-10-01 00:05:23,245 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:23,245 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:23,284 INFO  [Logging] Fetched the value successfully from location ---id:totalPrice 
+2018-10-01 00:05:32,807 INFO  [Logging] Handling click method working fine at location ---name:ctl00$Body$btnJoinNow 
+2018-10-01 00:05:32,850 INFO  [Logging] Fetched the value successfully from location ---xpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-10-01 00:05:37,172 INFO  [Logging] Handling click method working fine at location ---linktext:Create an Account 
+2018-10-01 00:05:37,172 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:37,172 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-10-01 00:05:37,172 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:37,241 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:37,241 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:37,241 INFO  [Logging] +++++++TC003++++++ 
+2018-10-01 00:05:37,241 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:37,241 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:40,026 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPFirstName 
+2018-10-01 00:05:41,178 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPLastName 
+2018-10-01 00:05:42,377 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgUserName 
+2018-10-01 00:05:43,558 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$Email 
+2018-10-01 00:05:44,695 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$rgPassword 
+2018-10-01 00:05:45,843 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$ConfirmPassword 
+2018-10-01 00:05:46,992 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCompany 
+2018-10-01 00:05:48,196 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPStreet 
+2018-10-01 00:05:49,259 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPCountry 
+2018-10-01 00:05:50,379 INFO  [Logging] Handling dropdown method working fine at location ---name:ctl00$Body$ddlNPRegion 
+2018-10-01 00:05:51,565 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPCity 
+2018-10-01 00:05:52,697 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$tbxNPZip 
+2018-10-01 00:05:53,878 INFO  [Logging] Handling textbox method working fine at location ---name:ctl00$Body$txtNPPhone 
+2018-10-01 00:05:53,878 INFO  [Logging] +++++++++++++++++++++++++ 
+2018-10-01 00:05:53,878 INFO  [Logging] +++++++++END OF TEST CASE+++++++ 
+2018-10-01 00:05:53,878 INFO  [Logging] +++++++++++++++++++++++++ 
